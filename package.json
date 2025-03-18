@@ -1,0 +1,20 @@
+{
+  "name": "create-express-crud-app",
+  "version": "1.0.2",
+  "description": "Générateur de projets Express.js avec architecture API CRUD",
+  "main": "lib/generator.js",
+  "bin": {
+    "create-express-crud-app": "./bin/cli.js"
+  },
+  "keywords": [
+    "express",
+    "generator",
+    "crud",
+    "api",
+    "mongodb",
+    "mongoose",
+    "boilerplate"
+  ],
+  "author": "Biowz",
+  "license": "MIT"
+}
